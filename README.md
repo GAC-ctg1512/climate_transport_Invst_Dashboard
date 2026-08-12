@@ -95,6 +95,6 @@ Through this project, the work demonstrates practical experience in:
 
 ## Future Development
 
-The project can be extended toward more advanced **climate-risk analytics, hydrological modelling, extreme-event detection, spatial machine learning, climate forecasting, remote-sensing integration, and explainable AI for environmental applications**.
+The project can be extended toward more advanced **climate-risk analytics, investment targets for each cities to achieve 2035 and 2050 goals, spatial machine learning, climate forecasting, remote-sensing integration, and explainable AI for environmental applications**.
 
 Ultimately, the repository serves as a portfolio demonstrating how modern **data science and machine learning can be applied to climate and environmental research**, with an emphasis on reproducibility, statistical rigor, spatial reasoning, and meaningful scientific interpretation.
